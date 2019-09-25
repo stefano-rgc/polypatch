@@ -6,4 +6,7 @@ The code forces the fit to pass through the two last and two first data point in
 
 The Matplotlib figure used as input can contain a legend, title, labels, etc.
 
-![alt text](https://github.com/stefano-rgc/glitch_add_and_remove/blob/master/exemplary_images/remove_glitch.gif)
+![alt text](https://github.com/stefano-rgc/polypatch/blob/master/exemplary_images/example.gif)
+
+
+![alt text](https://github.com/stefano-rgc/polypatch/blob/master/exemplary_images/example2.gif)
